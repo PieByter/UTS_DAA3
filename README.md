@@ -7,7 +7,7 @@
 
 ## Screeshot Output Program :
 ### Prim's Algorithm
-!(Prim Output)[https://github.com/Pieter-T-211401015/UTS_DAA3/blob/dff0a459570751498cd30535122a508fc2a2c2ff/Prim_SS.png]
+![Prim Output](https://github.com/Pieter-T-211401015/UTS_DAA3/blob/dff0a459570751498cd30535122a508fc2a2c2ff/Prim_SS.png)
 
 ### Kruskal's Algorithm
-!(Kruskal Output)[https://github.com/Pieter-T-211401015/UTS_DAA3/blob/dff0a459570751498cd30535122a508fc2a2c2ff/Kruskal_SS.png]
+![Kruskal Output](https://github.com/Pieter-T-211401015/UTS_DAA3/blob/dff0a459570751498cd30535122a508fc2a2c2ff/Kruskal_SS.png)
